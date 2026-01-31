@@ -1,5 +1,5 @@
 ---
-name: stellar-soroban
+name: stellar-skills
 description: Stellar blockchain and Soroban smart contract development. SDKs, wallets, DeFi protocols, and ecosystem tools. Use when building dApps on Stellar, writing Soroban contracts, integrating wallets, or working with Horizon/Soroban RPC.
 ---
 
