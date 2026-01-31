@@ -1,6 +1,8 @@
-# Stellar Skills
+# Stellar
 
 Agent skills for Stellar blockchain and Soroban smart contract development.
+
+Developed by [CuyoConnect](https://github.com/cuyoconnect).
 
 ## Available Skills
 
@@ -27,7 +29,7 @@ Comprehensive skill for building on Stellar/Soroban. Covers SDKs, wallets, DeFi 
 ## Installation
 
 ```bash
-npx skills add cuyoconnect/stellar-skills@stellar-skills
+npx skills add cuyoconnect/Stellar@stellar-skills
 ```
 
 ## Usage
