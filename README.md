@@ -29,7 +29,7 @@ Comprehensive skill for building on Stellar/Soroban. Covers SDKs, wallets, DeFi 
 ## Installation
 
 ```bash
-npx skills add cuyoconnect/Stellar@stellar-skills
+npx skills add cuyoconnect/stellar@stellar-skills
 ```
 
 ## Usage
